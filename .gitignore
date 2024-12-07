@@ -1,0 +1,8 @@
+# Python bytecode files
+__pycache__/
+
+# Environment-specific files
+fastapi-env/
+
+# macOS specific files
+.DS_Store
